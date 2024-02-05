@@ -3,12 +3,13 @@ html, body {
     height: 100%;
     padding: 0;
     margin: 0;
-    background-color:green;
+    /* background-color:green !important; */
   }
   .wrapper {
     box-sizing: border-box;
     min-height: 100%;
     display: flex;
+    /* background-color: red; */
     flex-direction: column;
   }
   .page-header, .page-footer {
