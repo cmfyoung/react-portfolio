@@ -11,7 +11,7 @@ export default function Home() {
         delivering tangible results.{" "}
       </p>
       <p>
-        My professional history not only encompasses a mastery of web
+        My professional history not only encompasses a proficiency in web
         development but also includes a proven track record in business and
         people management. Beyond coding, I have successfully steered businesses
         and teams toward success, leveraging my multifaceted background to bring
