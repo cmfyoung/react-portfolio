@@ -43,7 +43,7 @@ function Portfolio() {
               deployedLink:
                 "https://drive.google.com/file/d/1yqGNimaMvMUA4X8Zxhd5Jvkk1SjwLe_k/view",
               githubLink:
-                "www.github.com/cmfyoung/Employee-Tracker",
+                "https://github.com/cmfyoung/Employee-Tracker",
             },
             {
               title: "Java Script: WEB API Quiz",
