@@ -7,7 +7,7 @@ import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 
-export default function Header() {
+export default function App() {
   const [currentPage, setCurrentPage] = useState('Home');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
@@ -30,9 +30,12 @@ export default function Header() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div className="page-header">
+    <div className="app-container">
+    <header className="page-header">
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      <main className="mx-3">{renderPage()}</main>
-    </div>
+      <main className="mx-3 mb-4">{renderPage()}</main>
+    </header>
+    <Footer />
+  </div>
   );
 }
