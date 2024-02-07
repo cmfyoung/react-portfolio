@@ -3,12 +3,11 @@ export default function Home() {
     <div>
       <h1>Welcome!</h1>
       <p>
-        Hello there! I'm Chris Young, an enthusiastic and accomplished
-        Full-Stack Web Developer who brings a wealth of experience from the
-        dynamic realms of the food and beverage industry, marketing, and
-        operations direction. Proficient in JavaScript, CSS, and HTML, my
-        journey in the tech world is underpinned by a robust commitment to
-        delivering tangible results.{" "}
+        Hello there! I'm Chris Young, a Full-Stack Web Developer who brings a
+        wealth of experience from the dynamic realms of the food and beverage
+        industry, marketing, and operations direction. Proficient in JavaScript,
+        CSS, and HTML, my journey in the tech world is underpinned by a robust
+        commitment to delivering tangible results.{" "}
       </p>
       <p>
         My professional history not only encompasses a proficiency in web
