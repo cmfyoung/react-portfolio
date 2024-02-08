@@ -21,7 +21,7 @@ const socialLinks = [
 
 function Footer() {
   let footerStyle = {
-    position: 'fixed',
+    // position: 'fixed',
     bottom: 0,
     left: 0,
     right: 0,
@@ -31,6 +31,13 @@ function Footer() {
     alignItems: 'center',
     padding: '10px', 
     margin: '10px',
+  };
+  let bottomTextStyle = {
+    marginTop: '20px', 
+    marginLeft: '30px',
+    fontSize: '1rem', 
+    color: 'gray', 
+    justifyContent: 'center',
   };
 
   return (
@@ -51,7 +58,7 @@ function Footer() {
             ))}
           </ul>
         </div>
-        <p className="bottom-text"> © 2024 Chris Young</p>
+        <p style={bottomTextStyle}> © 2024 Christopher Young</p>
       </footer>
     </>
   );

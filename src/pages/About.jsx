@@ -1,8 +1,10 @@
+import profilePicture from "../Images/Bear-Trap.png";
+
 export default function About() {
   return (
     <div>
       <h1>About Me</h1>
-      <div className="content-container">
+      <div className="content-container align-items-center align-items-md-start flex-column-reverse flex-md-row"> 
         <div className="text-container">
           <p>
             I'm Chris Young, a driven and aspiring Full-Stack Web Developer
@@ -40,7 +42,7 @@ export default function About() {
         </div>
         <div className="image-container">
           <img
-            src="src/components/Images/Bear-Trap.png"
+            src={profilePicture}
             alt="Chris Young Picture"
             className="image"
           />
