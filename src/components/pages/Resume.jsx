@@ -10,7 +10,7 @@ export default function Resume() {
         View Resume (PDF)
       </a>
       <div>
-        <h2>Some of the Tech I'm familiar with:</h2>
+        <h2>Skills:</h2>
       </div>
       <div className="skills">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>

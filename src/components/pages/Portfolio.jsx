@@ -29,7 +29,7 @@ function Portfolio() {
             },
             {
               title: "(JATE) Just Another Text Editor",
-              description: "Single Page Text editor Application",
+              description: "Single Page Text Editor Application",
               imgSrc: Jate,
               deployedLink:
                 "https://text-editor-p1qc.onrender.com/",
@@ -38,7 +38,7 @@ function Portfolio() {
             },
             {
               title: "Employee Tracker",
-              description: "Command Line App to manage employee databases",
+              description: "CL App to Manage Employee Databases",
               imgSrc: EmployeeTracker,
               deployedLink:
                 "https://drive.google.com/file/d/1yqGNimaMvMUA4X8Zxhd5Jvkk1SjwLe_k/view",
@@ -47,7 +47,7 @@ function Portfolio() {
             },
             {
               title: "Java Script: WEB API Quiz",
-              description: "Web API quiz game.",
+              description: "Web API Quiz Game",
               imgSrc: CodeQuiz,
               deployedLink:
                 "https://cmfyoung.github.io/code-quiz/",
@@ -65,7 +65,7 @@ function Portfolio() {
             },
             {
               title: "Weather Dashboard",
-              description: "Server-Side APIs: (5) Day Weather Dashboard.",
+              description: "Server-Side APIs: 5-Day Forecast",
               imgSrc: Weather,
               deployedLink:
                 "https://cmfyoung.github.io/Weather-Dashboard/",

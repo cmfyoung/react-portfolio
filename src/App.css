@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 html, body {
     box-sizing: border-box;
     height: 100%;
     padding: 0;
     margin: 0;
+    font-family: 'Open Sans';
     /* background-color:green !important; */
   }
   .wrapper {
@@ -19,14 +21,19 @@ html, body {
   .page-body {
     flex-grow: 1;
   }
+  .nav-tabs {
+    background-color: rgb(6, 6, 92);
+  }
   .app-container {
     display: flex;
     flex-direction: column;
     min-height: 100%;
   }
-  .bottom-text {
+  .bottomtext {
     margin-top: 10px;
-    align-items: center;
+    align--items: center;
+    font-family: 'Open Sans';
+    font-size: x-large;
   }
   .content-container {
     display: flex;
@@ -40,4 +47,34 @@ html, body {
   .image {
     max-width: 100%; 
     height: 500px; 
+  }
+
+  .card {
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 450px;
+  }
+  .card-img {
+    max-width: 100%;
+    height: 200px;
+    border: 2px solid #ccc;
+  }
+
+  .btn-repo {
+    border: 1px solid #ccc;
+    margin: 1px;
+    background-color: silver;
+  }
+
+  .btn-deployed {
+    border: 1px solid #ccc;
+    margin: 1px;
+    background-color: gold;
   }
