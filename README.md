@@ -100,7 +100,7 @@
   ---
 
   ## Contact 
-  Github Repository : www.github.com/cmfyoung/react-portfolio
+  Github Repository : github.com/cmfyoung/react-portfolio
 
 
   Website URL : https://magnificent-froyo-979ef4.netlify.app/
