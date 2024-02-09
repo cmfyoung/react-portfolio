@@ -10,7 +10,7 @@ const socialLinks = [
   {
     id: 2,
     icon: <FiTwitter />,
-    url: 'https://twitter.com/',
+    url: 'https://twitter.com/chrismfyoung',
   },
   {
     id: 3,
