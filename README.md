@@ -65,7 +65,7 @@
 
   ## Installation 
 
-  TBD
+  N/A
 
 
   ---
@@ -84,7 +84,7 @@
 
   ## Tests
   
-  TBD
+  N/A
 
 
   ## Credits
@@ -103,7 +103,7 @@
   Github Repository : www.github.com/cmfyoung/react-portfolio
 
 
-  Website URL : TBD
+  Website URL : https://magnificent-froyo-979ef4.netlify.app/
 
 
   Author: Chris Young
